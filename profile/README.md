@@ -8,6 +8,7 @@ Many of our members collaborate across various institutions and projects, leadin
 - **[Epiverse-TRACE](https://github.com/Epiverse-TRACE)**: A global initiative to develop open-source tools for epidemiology and public health. This project focuses on trace and track methodologies, building infrastructure for outbreak analysis.
 - **[Epiforecasts](https://github.com/epiforecasts)**: A group of epidemiologists, modelers, and R software developers focused on developing methodology and tools for real-time modelling and forecasting of infectious disease outbreaks.
 - **[Epinowcast](https://github.com/epinowcast)**: A group of infectious disease modellers, applied epidemiologists, software developers, and others building a suite of tools for real-time analysis of infectious diseases.
+- **[seroanalytics](https://github.com/seroanalytics)**: A collection of tools to make inference of serological data a bit easier.
 
 
 ### 👩‍💻 **Useful Resources**
