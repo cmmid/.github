@@ -5,8 +5,8 @@ Welcome to the Center for Mathematical Modelling of Infectious Disease (CMMID) G
 ## 📫 Contact Us
 For more information, please feel free to reach out to us:
 
-Twitter (X): [@cmmid_lshtm](https://x.com/cmmid_lshtm)
-Website: [cmmid.london](http://cmmid.lshtm.ac.uk)
+- Twitter (X): [@cmmid_lshtm](https://x.com/cmmid_lshtm)
+- Website: [cmmid.london](http://cmmid.lshtm.ac.uk)
 
 <!--
 
