@@ -10,7 +10,9 @@ Many of our members collaborate across various institutions and projects, leadin
 - **[Epinowcast](https://github.com/epinowcast)**: A group of infectious disease modellers, applied epidemiologists, software developers, and others building a suite of tools for real-time analysis of infectious diseases.
 
 
-
+### 👩‍💻 **Useful Resources**
+We have a wide range of resources here to help you get understand the work we do:
+- **[epirecipes](https://github.com/epirecipes)**:A cookbook of infectious disease transmission models.
 
 ### 📫 Contact Us
 For more information, please feel free to reach out to us:
