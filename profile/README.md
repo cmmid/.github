@@ -12,7 +12,7 @@ Many of our members collaborate across various institutions and projects, leadin
 
 ### 👩‍💻 **Useful Resources**
 We have a wide range of resources here to help you get understand the work we do:
-- **[epirecipes](https://github.com/epirecipes)**:A cookbook of infectious disease transmission models.
+- **[epirecipes](https://github.com/epirecipes)**: A cookbook of infectious disease transmission models.
 
 ### 📫 Contact Us
 For more information, please feel free to reach out to us:
