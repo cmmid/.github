@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-Welcome to the Center for Mathematical Modelling of Infectious Disease (CMMID) GitHub organization! We are a community of researchers, data scientists, and software engineers dedicated to advancing the understanding, forecasting, and control of infectious diseases through the power of mathematical and statistical models. 🌍🦠
+Welcome to the **Center for Mathematical Modelling of Infectious Disease (CMMID)** GitHub organization! We are a community of researchers, data scientists, and software engineers dedicated to advancing the understanding, forecasting, and control of infectious diseases through the power of mathematical and statistical models. 🌍🦠
 
-## 📫 Contact Us
+### 🤝 **Affiliated GitHub Organizations**
+Many of our members collaborate across various institutions and projects, leading to the development of affiliated repositories and organizations that contribute to the global effort in infectious disease modeling and public health research. Here are some of the notable organizations closely connected to the work of CMMID members:
+
+- **[Epiverse-TRACE](https://github.com/Epiverse-TRACE)**: A global initiative to develop open-source tools for epidemiology and public health. This project focuses on trace and track methodologies, building infrastructure for outbreak analysis.
+- **[Epiforecasts](https://github.com/epiforecasts))**: A group of epidemiologists, modelers, and R software developers focused on developing methodology and tools for real-time modelling and forecasting of infectious disease outbreaks.
+- **[Epinowcast](https://github.com/epinowcast)**: A group of infectious disease modellers, applied epidemiologists, software developers, and others building a suite of tools for real-time analysis of infectious diseases.
+
+
+
+
+### 📫 Contact Us
 For more information, please feel free to reach out to us:
 
 - Twitter (X): [@cmmid_lshtm](https://x.com/cmmid_lshtm)
