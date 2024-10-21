@@ -2,7 +2,7 @@
 
 Welcome to the **Center for Mathematical Modelling of Infectious Disease (CMMID)** GitHub organization! We are a community of researchers, data scientists, and software engineers dedicated to advancing the understanding, forecasting, and control of infectious diseases through the power of mathematical and statistical models. 🌍🦠
 
-Checkout our projects: **[cmmid.io](https://cmmid.github.io/)**
+Check out our projects: **[cmmid.io](https://cmmid.github.io/)**
 
 ### 🤝 **Affiliated GitHub Organisations**
 Many of our members collaborate across various institutions and projects, leading to the development of affiliated organisations that contribute to the global effort in infectious disease modeling and public health research. Here are some of the notable organisations closely connected to the work of CMMID members:
