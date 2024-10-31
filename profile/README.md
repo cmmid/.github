@@ -15,7 +15,7 @@ Many of our members collaborate across various institutions and projects, leadin
 
 ### 👩‍💻 **Useful Resources**
 We have a wide range of resources here to help you get understand the work we do:
--- **[New Starter Hub](https://github.com/cmmid/gettingstarted)**: A collection of useful resources for new starters and ECRs
+- **[New Starter Hub](https://github.com/cmmid/gettingstarted)**: A collection of useful resources for new starters and ECRs
 - **[epirecipes](https://github.com/epirecipes)**: A cookbook of infectious disease transmission models.
 
 ### 📫 Contact Us
